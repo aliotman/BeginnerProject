@@ -1,0 +1,24 @@
+# IDE
+.vscode/*
+.vs/
+
+# Files
+packages/
+bin/
+DefaultImage/
+obj/
+Properties/
+Resources/
+SqlServerTypes/
+
+# File Extensions
+*.resx
+*.sln
+*.suo
+*.config
+*.Designer.cs
+*.user
+*.csproj
+*.xsc
+*.xsd
+*.xss
